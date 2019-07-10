@@ -2,14 +2,23 @@
   "name": "duckduckbot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "dezh",
-  "license": "ISC",
+  "main": "bot.js",
   "dependencies": {
     "express": "^4.17.1",
     "tmi.js": "^1.4.5"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dezhay/duckduck_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dezhay/duckduck_bot/issues"
+  },
+  "homepage": "https://github.com/Dezhay/duckduck_bot#readme"
 }
