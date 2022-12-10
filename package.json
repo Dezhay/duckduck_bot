@@ -4,7 +4,7 @@
   "description": "",
   "main": "bot.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "tmi.js": "^1.4.5"
   },
   "devDependencies": {},
